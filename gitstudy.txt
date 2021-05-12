@@ -1,3 +1,7 @@
 git config --global user.name "lhq-git"
 git confit --global user.email "lhqlcr@163.com"
+git init 创建一个空的仓库，或者重新初始化一个已存在的仓库
+git add 
+git commit -m "提示语"
+
 
